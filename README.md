@@ -9,7 +9,8 @@ Please provide your MetaMask wallet address: 0xCcb71aac7F6864Ac9B175D450eb9f93B2
 Please provide a screenshot of the `forge test -vvv` command running in your local environment.
 
 ![Local Testing](hw0-local.png)
-![Contract Address](hw0-log.png)
+
+![Contract log](hw0-log.png)
 
 ## Contract Address
 Please provide the contract address that you deployed on the Sepolia network.
